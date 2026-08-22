@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ayush-50: #E6F3FA;
+  --ayush-100: #CCE7F5;
+  --ayush-200: #ADD8E6;
+  --ayush-500: #1E88E5;
+  --ayush-600: #1565C0;
+  --ayush-700: #0D47A1;
+  --ayush-800: #0A377B;
+  --ayush-900: #051C3F;
+  --teal-500: #0284C7;
+  --teal-600: #0369A1;
+}
+
+body {
+  background-color: #ADD8E6; /* Light Blue #ADD8E6 Background Theme */
+  color: #0F172A;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Fresh Light Blue Modern Card & Button Styles */
+.ayush-card {
+  @apply bg-white/95 border border-sky-200 rounded-2xl p-6 transition-all duration-300 shadow-sm;
+}
+
+.ayush-card-hover {
+  @apply hover:border-sky-400 hover:shadow-lg hover:shadow-sky-900/10 hover:-translate-y-0.5;
+}
+
+.ayush-btn-primary {
+  @apply bg-ayush-700 hover:bg-ayush-800 text-white font-semibold rounded-xl shadow-md hover:shadow-lg transition-all duration-200;
+}
+
+.ayush-btn-secondary {
+  @apply bg-white hover:bg-sky-50 text-slate-800 font-semibold rounded-xl border border-slate-300 hover:border-ayush-600 transition-all duration-200;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #E6F2FF;
+}
+::-webkit-scrollbar-thumb {
+  background: #90CDF4;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #63B3ED;
+}

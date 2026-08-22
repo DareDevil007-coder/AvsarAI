@@ -1,0 +1,4236 @@
+{
+  "users": [
+    {
+      "userId": "usr-aarav-101",
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@columbia.edu",
+      "role": "student"
+    },
+    {
+      "userId": "usr-priya-102",
+      "name": "Priya Patel",
+      "email": "priya.patel@du.ac.in",
+      "role": "student"
+    },
+    {
+      "userId": "usr-admin-001",
+      "name": "AVSAR Admin",
+      "email": "admin@avsar.ai",
+      "role": "admin"
+    },
+    {
+      "userId": "usr-1787375803414",
+      "name": "Dipak thakkar",
+      "email": "dp007@gmail.com",
+      "role": "student"
+    },
+    {
+      "userId": "usr-tcs-201",
+      "name": "TCS Industry Portal",
+      "email": "recruitment@tcs.com",
+      "role": "company",
+      "company_id": "CO001"
+    },
+    {
+      "userId": "usr-tatamotors-202",
+      "name": "Tata Motors HR Team",
+      "email": "careers@tatamotors.com",
+      "role": "company",
+      "company_id": "CO011"
+    },
+    {
+      "userId": "usr-student-1787401593365",
+      "name": "Test Candidate",
+      "email": "test.student@avsar.ai",
+      "password": "f513f04fb588308d648d154b58d6afde:1497b968a2a69ffceb70ba72c7f7459ab0de903f096586df215e668374549e2db0424c0d0cdcc057fc838a6026f0db25d1c2f9c168f85b6bb30b0cccd7e66d1a",
+      "role": "student"
+    },
+    {
+      "userId": "usr-student-5128",
+      "name": "DP",
+      "email": "dp@gmail.com",
+      "password": "89417da3e0c98439195139f2cbe559cd:718d629a6ea8abd3a33524491219eff765601f089c21ca746fb4d01bbf37fb2b18aa15a62ccf0b50968f8c75840b4c64ebd039ce2aceccffcff48372f8f59b90",
+      "role": "student"
+    },
+    {
+      "userId": "usr-student-6024",
+      "name": "ANANYA SHARMA",
+      "email": "ananya.sharma@avsar.ai",
+      "password": "d0bda9d12ef8c6e78b4203035ce86948:1d7ab3cc1d3fd7ff580c4768e3cb3da7347d293cd424e0ad7e76762e67a437e2cdd01f8e0ce9a2e9ee884b72fdfbc1e23ea65ff0c70db97349083f73f9370a68",
+      "role": "student"
+    }
+  ],
+  "profiles": {
+    "usr-aarav-101": {
+      "name": "Aarav Sharma",
+      "email": "aarav.sharma@columbia.edu",
+      "degree": "MBA / B.Tech (Dual)",
+      "college": "Columbia Business School / IIT",
+      "graduationYear": 2027,
+      "cgpa": 8.8,
+      "skills": [
+        "Python",
+        "SQL",
+        "Data Analytics",
+        "Product Strategy",
+        "User Research"
+      ],
+      "interests": [
+        "Information Technology",
+        "AI/ML",
+        "Data Analytics"
+      ],
+      "preferredDomains": [
+        "Information Technology",
+        "Software Development"
+      ],
+      "preferredLocations": [
+        "Bengaluru",
+        "Remote"
+      ],
+      "userId": "usr-aarav-101"
+    },
+    "usr-priya-102": {
+      "name": "Priya Patel",
+      "email": "priya.patel@du.ac.in",
+      "degree": "B.A. (Hons) Economics",
+      "college": "Delhi University",
+      "graduationYear": 2026,
+      "cgpa": 7.1,
+      "skills": [
+        "Excel & Data Entry",
+        "Market Research",
+        "Finance"
+      ],
+      "interests": [
+        "Financial Services",
+        "Marketing"
+      ],
+      "preferredDomains": [
+        "Finance",
+        "Marketing"
+      ],
+      "preferredLocations": [
+        "New Delhi",
+        "Mumbai"
+      ],
+      "userId": "usr-priya-102"
+    },
+    "usr-1787375803414": {
+      "name": "Dipak thakkar",
+      "email": "dp007@gmail.com",
+      "degree": "B.Tech",
+      "college": "BITS Palani",
+      "graduationYear": 2026,
+      "cgpa": 9.34,
+      "skills": [
+        "Python",
+        "C/C++",
+        "Python Basics",
+        "Java",
+        "SQL",
+        "Cloud"
+      ],
+      "interests": [],
+      "preferredDomains": [
+        "Information Technology",
+        "Software Development"
+      ],
+      "preferredLocations": [
+        "Ahmedabad (Current)",
+        "Ganghinagar",
+        "Mumbai",
+        "Pune",
+        "Gurugram"
+      ],
+      "experience": "None",
+      "resumeFileName": "Aarav_Sharma_Resume_2026.pdf",
+      "resumeFileSize": "1.4 MB",
+      "resumeUploadedAt": "2026-08-22T05:23:48.257Z",
+      "userId": "usr-1787375803414"
+    },
+    "usr-student-1787401593365": {
+      "userId": "usr-student-1787401593365",
+      "name": "Test Candidate",
+      "email": "test.student@avsar.ai",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "college": "Technology Institute",
+      "graduationYear": 2026,
+      "cgpa": 8,
+      "skills": [
+        "Python",
+        "SQL",
+        "React",
+        "Data Analytics"
+      ],
+      "interests": [
+        "Software Engineering",
+        "AI/ML"
+      ],
+      "preferredDomains": [
+        "IT / Software Development"
+      ],
+      "preferredLocations": [
+        "Remote"
+      ]
+    },
+    "usr-student-5128": {
+      "userId": "usr-student-5128",
+      "name": "Dhruvil Prajapati",
+      "email": "dp@gmail.com",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "college": "IIT",
+      "graduationYear": 2030,
+      "cgpa": 8.5,
+      "skills": [
+        "Python",
+        "SQL",
+        "React",
+        "Data Analytics"
+      ],
+      "interests": [
+        "Software Engineering",
+        "AI/ML"
+      ],
+      "preferredDomains": [
+        "IT / Software Development"
+      ],
+      "preferredLocations": [
+        "Ahmedabad"
+      ],
+      "experience": "Fresher"
+    },
+    "usr-student-6024": {
+      "userId": "usr-student-6024",
+      "name": "ANANYA SHARMA",
+      "email": "ananya.sharma@avsar.ai",
+      "degree": "Bachelor of Technology (B.Tech)",
+      "college": "Technology Institute",
+      "graduationYear": 2026,
+      "cgpa": 8.5,
+      "skills": [
+        "Python",
+        "SQL",
+        "Dart",
+        "Next.js",
+        "Spring Boot",
+        "Svelte"
+      ],
+      "interests": [
+        "Software Engineering",
+        "AI/ML"
+      ],
+      "preferredDomains": [
+        "IT / Software Development"
+      ],
+      "preferredLocations": [
+        "Ahmedabad"
+      ],
+      "experience": "Fresher"
+    }
+  },
+  "skills_master": [
+    {
+      "skill_id": 1,
+      "skill_name": "AutoCAD",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 2,
+      "skill_name": "CNC Machine Operation",
+      "category": "Vocational"
+    },
+    {
+      "skill_id": 3,
+      "skill_name": "Tally ERP & GST",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 4,
+      "skill_name": "Python Basics",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 5,
+      "skill_name": "Customer Support & Communication",
+      "category": "Soft Skills"
+    },
+    {
+      "skill_id": 6,
+      "skill_name": "Electrical Wiring & Safety",
+      "category": "Vocational"
+    },
+    {
+      "skill_id": 7,
+      "skill_name": "Excel & Data Entry",
+      "category": "Tool"
+    },
+    {
+      "skill_id": 8,
+      "skill_name": "Quality Inspection",
+      "category": "Vocational"
+    },
+    {
+      "skill_id": 9,
+      "skill_name": "Python",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 10,
+      "skill_name": "Java",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 11,
+      "skill_name": "SQL",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 12,
+      "skill_name": "Cloud",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 13,
+      "skill_name": "AI/ML",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 14,
+      "skill_name": "Data Analytics",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 15,
+      "skill_name": "Product Strategy",
+      "category": "Soft Skills"
+    },
+    {
+      "skill_id": 16,
+      "skill_name": "User Research",
+      "category": "Soft Skills"
+    },
+    {
+      "skill_id": 17,
+      "skill_name": "Cybersecurity",
+      "category": "Technical"
+    },
+    {
+      "skill_id": 18,
+      "skill_name": "C/C++",
+      "category": "Technical"
+    }
+  ],
+  "sectors_master": [
+    {
+      "sector_id": 1,
+      "sector_name": "Information Technology",
+      "description": "IT & Software Services"
+    },
+    {
+      "sector_id": 2,
+      "sector_name": "Software Development",
+      "description": "Backend, Frontend & Systems Engineering"
+    },
+    {
+      "sector_id": 3,
+      "sector_name": "Artificial Intelligence",
+      "description": "Generative AI & LLMs"
+    },
+    {
+      "sector_id": 4,
+      "sector_name": "Machine Learning",
+      "description": "Predictive Models & Deep Learning"
+    },
+    {
+      "sector_id": 5,
+      "sector_name": "Data Science",
+      "description": "Data Engineering & Statistical Modeling"
+    },
+    {
+      "sector_id": 6,
+      "sector_name": "Data Analytics",
+      "description": "Business Intelligence & SQL Metrics"
+    },
+    {
+      "sector_id": 7,
+      "sector_name": "Cybersecurity",
+      "description": "Network & Cloud Security"
+    },
+    {
+      "sector_id": 8,
+      "sector_name": "Cloud Computing",
+      "description": "AWS, Azure & Cloud Infrastructure"
+    },
+    {
+      "sector_id": 9,
+      "sector_name": "DevOps",
+      "description": "CI/CD & Container Orchestration"
+    },
+    {
+      "sector_id": 10,
+      "sector_name": "Web Development",
+      "description": "Full Stack & Web Applications"
+    },
+    {
+      "sector_id": 11,
+      "sector_name": "Mobile App Development",
+      "description": "iOS, Android & Flutter"
+    },
+    {
+      "sector_id": 12,
+      "sector_name": "Electronics",
+      "description": "Embedded Systems & VLSI"
+    },
+    {
+      "sector_id": 13,
+      "sector_name": "Electrical Engineering",
+      "description": "Power Systems & Automation"
+    },
+    {
+      "sector_id": 14,
+      "sector_name": "Mechanical Engineering",
+      "description": "CAD & Thermal Engineering"
+    },
+    {
+      "sector_id": 15,
+      "sector_name": "Civil Engineering",
+      "description": "Structural & Construction Management"
+    },
+    {
+      "sector_id": 16,
+      "sector_name": "Automotive",
+      "description": "EV & Automotive Manufacturing"
+    },
+    {
+      "sector_id": 17,
+      "sector_name": "Heavy Engineering",
+      "description": "Industrial Machinery & Automation"
+    },
+    {
+      "sector_id": 18,
+      "sector_name": "BFSI",
+      "description": "Banking & Financial Services"
+    },
+    {
+      "sector_id": 19,
+      "sector_name": "FinTech",
+      "description": "Digital Payments & Wealth Tech"
+    },
+    {
+      "sector_id": 20,
+      "sector_name": "Healthcare",
+      "description": "Software Data & Hospital Management"
+    },
+    {
+      "sector_id": 21,
+      "sector_name": "Biotechnology",
+      "description": "Genomics & Life Sciences"
+    },
+    {
+      "sector_id": 22,
+      "sector_name": "Pharmaceuticals",
+      "description": "Drug Discovery & Quality Assurance"
+    },
+    {
+      "sector_id": 23,
+      "sector_name": "Education",
+      "description": "EdTech & Academic Research"
+    },
+    {
+      "sector_id": 24,
+      "sector_name": "E-Commerce",
+      "description": "Online Retail & Supply Chain"
+    },
+    {
+      "sector_id": 25,
+      "sector_name": "Retail",
+      "description": "Omnichannel Retail & Store Ops"
+    },
+    {
+      "sector_id": 26,
+      "sector_name": "Marketing",
+      "description": "Brand Strategy & Growth"
+    },
+    {
+      "sector_id": 27,
+      "sector_name": "Digital Marketing",
+      "description": "SEO, SEM & Content Marketing"
+    },
+    {
+      "sector_id": 28,
+      "sector_name": "Sales",
+      "description": "Enterprise Sales & Business Development"
+    },
+    {
+      "sector_id": 29,
+      "sector_name": "Human Resources",
+      "description": "Talent Acquisition & HR Ops"
+    },
+    {
+      "sector_id": 30,
+      "sector_name": "Finance",
+      "description": "Financial Planning & Analysis"
+    },
+    {
+      "sector_id": 31,
+      "sector_name": "Accounting",
+      "description": "Auditing & Taxation"
+    },
+    {
+      "sector_id": 32,
+      "sector_name": "Product Management",
+      "description": "Product Strategy & User Research"
+    },
+    {
+      "sector_id": 33,
+      "sector_name": "Business Analytics",
+      "description": "Strategy & Operations Analysis"
+    },
+    {
+      "sector_id": 34,
+      "sector_name": "User Research",
+      "description": "UX Discovery & Usability Testing"
+    },
+    {
+      "sector_id": 35,
+      "sector_name": "Design / UI UX",
+      "description": "Product Design & Wireframing"
+    },
+    {
+      "sector_id": 36,
+      "sector_name": "Renewable Energy",
+      "description": "Solar, Wind & Clean Tech"
+    },
+    {
+      "sector_id": 37,
+      "sector_name": "Telecommunications",
+      "description": "5G & Telecom Infrastructure"
+    },
+    {
+      "sector_id": 38,
+      "sector_name": "Logistics & Supply Chain",
+      "description": "Fulfillment & Freight Management"
+    },
+    {
+      "sector_id": 39,
+      "sector_name": "Manufacturing",
+      "description": "Industrial Production & Quality"
+    },
+    {
+      "sector_id": 40,
+      "sector_name": "Agriculture Technology",
+      "description": "AgriTech & Smart Farming"
+    },
+    {
+      "sector_id": 41,
+      "sector_name": "Government / Public Sector",
+      "description": "Public Policy & E-Governance"
+    }
+  ],
+  "districts_master": [
+    {
+      "district_id": 1,
+      "state_name": "Maharashtra",
+      "district_name": "Pune",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 2,
+      "state_name": "Maharashtra",
+      "district_name": "Gadchiroli",
+      "is_aspirational": true,
+      "tier": "Tier-3"
+    },
+    {
+      "district_id": 3,
+      "state_name": "Maharashtra",
+      "district_name": "Mumbai",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 4,
+      "state_name": "Maharashtra",
+      "district_name": "Nagpur",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 5,
+      "state_name": "Maharashtra",
+      "district_name": "Nashik",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 6,
+      "state_name": "Maharashtra",
+      "district_name": "Thane",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 7,
+      "state_name": "Madhya Pradesh",
+      "district_name": "Indore",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 8,
+      "state_name": "Madhya Pradesh",
+      "district_name": "Singrauli",
+      "is_aspirational": true,
+      "tier": "Aspirational"
+    },
+    {
+      "district_id": 9,
+      "state_name": "Madhya Pradesh",
+      "district_name": "Bhopal",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 10,
+      "state_name": "Uttar Pradesh",
+      "district_name": "Lucknow",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 11,
+      "state_name": "Uttar Pradesh",
+      "district_name": "Chitrakoot",
+      "is_aspirational": true,
+      "tier": "Aspirational"
+    },
+    {
+      "district_id": 12,
+      "state_name": "Uttar Pradesh",
+      "district_name": "Noida",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 13,
+      "state_name": "Uttar Pradesh",
+      "district_name": "Kanpur",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 14,
+      "state_name": "Uttar Pradesh",
+      "district_name": "Varanasi",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 15,
+      "state_name": "Karnataka",
+      "district_name": "Bengaluru Urban",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 16,
+      "state_name": "Karnataka",
+      "district_name": "Mysuru",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 17,
+      "state_name": "Karnataka",
+      "district_name": "Mangaluru",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 18,
+      "state_name": "Tamil Nadu",
+      "district_name": "Ramanathapuram",
+      "is_aspirational": true,
+      "tier": "Aspirational"
+    },
+    {
+      "district_id": 19,
+      "state_name": "Tamil Nadu",
+      "district_name": "Chennai",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 20,
+      "state_name": "Tamil Nadu",
+      "district_name": "Coimbatore",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 21,
+      "state_name": "Tamil Nadu",
+      "district_name": "Hosur",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 22,
+      "state_name": "Telangana",
+      "district_name": "Hyderabad",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 23,
+      "state_name": "Delhi",
+      "district_name": "New Delhi",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 24,
+      "state_name": "Haryana",
+      "district_name": "Gurugram",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 25,
+      "state_name": "Haryana",
+      "district_name": "Faridabad",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 26,
+      "state_name": "Punjab",
+      "district_name": "Chandigarh",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 27,
+      "state_name": "West Bengal",
+      "district_name": "Kolkata",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 28,
+      "state_name": "Jharkhand",
+      "district_name": "Jamshedpur",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 29,
+      "state_name": "Jharkhand",
+      "district_name": "Ranchi",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 30,
+      "state_name": "Gujarat",
+      "district_name": "Ahmedabad",
+      "is_aspirational": false,
+      "tier": "Tier-1"
+    },
+    {
+      "district_id": 31,
+      "state_name": "Gujarat",
+      "district_name": "Surat",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 32,
+      "state_name": "Gujarat",
+      "district_name": "Vadodara",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 33,
+      "state_name": "Gujarat",
+      "district_name": "Rajkot",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 34,
+      "state_name": "Rajasthan",
+      "district_name": "Jaipur",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 35,
+      "state_name": "Rajasthan",
+      "district_name": "Udaipur",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 36,
+      "state_name": "Kerala",
+      "district_name": "Kochi",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 37,
+      "state_name": "Kerala",
+      "district_name": "Thiruvananthapuram",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 38,
+      "state_name": "Andhra Pradesh",
+      "district_name": "Visakhapatnam",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 39,
+      "state_name": "Andhra Pradesh",
+      "district_name": "Vijayawada",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 40,
+      "state_name": "Bihar",
+      "district_name": "Patna",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 41,
+      "state_name": "Assam",
+      "district_name": "Guwahati",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 42,
+      "state_name": "Odisha",
+      "district_name": "Bhubaneswar",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 43,
+      "state_name": "Odisha",
+      "district_name": "Cuttack",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 44,
+      "state_name": "Uttarakhand",
+      "district_name": "Dehradun",
+      "is_aspirational": false,
+      "tier": "Tier-2"
+    },
+    {
+      "district_id": 45,
+      "state_name": "All States",
+      "district_name": "Remote",
+      "is_aspirational": false,
+      "tier": "Flexible"
+    }
+  ],
+  "companies": [
+    {
+      "company_id": "CO001",
+      "company_name": "Tata Consultancy Service (TCS)",
+      "sector": "Information Technology",
+      "industry": "IT Services & Consulting",
+      "location": "Mumbai",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Python, Java, SQL, Cloud, AI/ML, Data Analytics",
+      "is_verified": true,
+      "website": "https://www.tataconsultancyservicetcs.com",
+      "about": "Tata Consultancy Service (TCS) is a premier Indian MNC in the Information Technology sector, specializing in IT Services & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@tataconsultancyservicetcs.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "IT Services & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO002",
+      "company_name": "Infosys",
+      "sector": "Information Technology",
+      "industry": "IT Services & Consulting",
+      "location": "Bengaluru",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Python, Java, SQL, Cloud, AI/ML, Data Analytics",
+      "is_verified": true,
+      "website": "https://www.infosys.com",
+      "about": "Infosys is a premier Indian MNC in the Information Technology sector, specializing in IT Services & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@infosys.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "IT Services & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO003",
+      "company_name": "Wipro",
+      "sector": "Information Technology",
+      "industry": "IT Services & Consulting",
+      "location": "Bengaluru",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Python, Java, SQL, Cloud, Cybersecurity, Data Analytics",
+      "is_verified": true,
+      "website": "https://www.wipro.com",
+      "about": "Wipro is a premier Indian MNC in the Information Technology sector, specializing in IT Services & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@wipro.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "IT Services & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO004",
+      "company_name": "HCLTech",
+      "sector": "Information Technology",
+      "industry": "IT Services & Consulting",
+      "location": "Noida",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Java, Python, Cloud, Cybersecurity, SQL, AI",
+      "is_verified": true,
+      "website": "https://www.hcltech.com",
+      "about": "HCLTech is a premier Indian MNC in the Information Technology sector, specializing in IT Services & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@hcltech.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "IT Services & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Noida",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO005",
+      "company_name": "Tech Mahindra",
+      "sector": "Information Technology",
+      "industry": "IT Services & Consulting",
+      "location": "Pune",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Java, Python, Cloud, Networking, SQL, AI",
+      "is_verified": true,
+      "website": "https://www.techmahindra.com",
+      "about": "Tech Mahindra is a premier Indian MNC in the Information Technology sector, specializing in IT Services & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@techmahindra.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "IT Services & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Pune",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO006",
+      "company_name": "Accenture",
+      "sector": "Information Technology",
+      "industry": "IT Services & Consulting",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "Python, Java, Cloud, Data Analytics, AI, Consulting",
+      "is_verified": true,
+      "website": "https://www.accenture.com",
+      "about": "Accenture is a premier Global MNC in the Information Technology sector, specializing in IT Services & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@accenture.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "IT Services & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO007",
+      "company_name": "Cognizant",
+      "sector": "Information Technology",
+      "industry": "IT Services & Consulting",
+      "location": "Chennai",
+      "company_type": "Global MNC",
+      "relevant_skills": "Java, Python, SQL, Cloud, Data Analytics, AI",
+      "is_verified": true,
+      "website": "https://www.cognizant.com",
+      "about": "Cognizant is a premier Global MNC in the Information Technology sector, specializing in IT Services & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@cognizant.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "IT Services & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Chennai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO008",
+      "company_name": "Capgemini",
+      "sector": "Information Technology",
+      "industry": "IT Services & Consulting",
+      "location": "Mumbai",
+      "company_type": "Global MNC",
+      "relevant_skills": "Java, Python, Cloud, SQL, Cybersecurity, Data",
+      "is_verified": true,
+      "website": "https://www.capgemini.com",
+      "about": "Capgemini is a premier Global MNC in the Information Technology sector, specializing in IT Services & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@capgemini.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "IT Services & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO009",
+      "company_name": "IBM India",
+      "sector": "Information Technology",
+      "industry": "Technology & Consulting",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "Python, Java, AI, Cloud, Data Science, Cybersecurity",
+      "is_verified": true,
+      "website": "https://www.ibmindia.com",
+      "about": "IBM India is a premier Global MNC in the Information Technology sector, specializing in Technology & Consulting. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@ibmindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "Technology & Consulting",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO010",
+      "company_name": "Oracle India",
+      "sector": "Information Technology",
+      "industry": "Enterprise Software & Cloud",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "Java, SQL, Cloud, Database, AI, DevOps",
+      "is_verified": true,
+      "website": "https://www.oracleindia.com",
+      "about": "Oracle India is a premier Global MNC in the Information Technology sector, specializing in Enterprise Software & Cloud. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@oracleindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Information Technology",
+        "Enterprise Software & Cloud",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO011",
+      "company_name": "Tata Motors",
+      "sector": "Automobile",
+      "industry": "Automotive Manufacturing",
+      "location": "Pune",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Mechanical Design, CAD, Manufacturing, EV, Supply Chain",
+      "is_verified": true,
+      "website": "https://www.tatamotors.com",
+      "about": "Tata Motors is a premier Indian MNC in the Automobile sector, specializing in Automotive Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@tatamotors.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Automobile",
+        "Automotive Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Pune",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO012",
+      "company_name": "Mahindra & Mahindra",
+      "sector": "Automobile",
+      "industry": "Automotive Manufacturing",
+      "location": "Mumbai",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Mechanical Engineering, CAD, Manufacturing, EV, Analytics",
+      "is_verified": true,
+      "website": "https://www.mahindramahindra.com",
+      "about": "Mahindra & Mahindra is a premier Indian MNC in the Automobile sector, specializing in Automotive Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@mahindramahindra.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Automobile",
+        "Automotive Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO013",
+      "company_name": "Maruti Suzuki India",
+      "sector": "Automobile",
+      "industry": "Automotive Manufacturing",
+      "location": "New Delhi / Gurugram",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Mechanical, Automobile Engineering, CAD, Manufacturing, Quality",
+      "is_verified": true,
+      "website": "https://www.marutisuzukiindia.com",
+      "about": "Maruti Suzuki India is a premier Indian MNC in the Automobile sector, specializing in Automotive Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@marutisuzukiindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Automobile",
+        "Automotive Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "New Delhi / Gurugram",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO014",
+      "company_name": "Hyundai Motor India",
+      "sector": "Automobile",
+      "industry": "Automotive Manufacturing",
+      "location": "Chennai",
+      "company_type": "Global MNC",
+      "relevant_skills": "Automobile Engineering, CAD, Manufacturing, EV, Quality",
+      "is_verified": true,
+      "website": "https://www.hyundaimotorindia.com",
+      "about": "Hyundai Motor India is a premier Global MNC in the Automobile sector, specializing in Automotive Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@hyundaimotorindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Automobile",
+        "Automotive Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Chennai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO015",
+      "company_name": "Hero MotorCorp",
+      "sector": "Automobile",
+      "industry": "Two-Wheeler Manufacturing",
+      "location": "New Delhi",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Mechanical, Automobile Engineering, CAD, Manufacturing, Quality",
+      "is_verified": true,
+      "website": "https://www.heromotorcorp.com",
+      "about": "Hero MotorCorp is a premier Indian MNC in the Automobile sector, specializing in Two-Wheeler Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@heromotorcorp.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Automobile",
+        "Two-Wheeler Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "New Delhi",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO016",
+      "company_name": "Bajaj Auto",
+      "sector": "Automobile",
+      "industry": "Automotive Manufacturing",
+      "location": "Pune",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Mechanical, Automobile Engineering, CAD, Manufacturing, EV",
+      "is_verified": true,
+      "website": "https://www.bajajauto.com",
+      "about": "Bajaj Auto is a premier Indian MNC in the Automobile sector, specializing in Automotive Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@bajajauto.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Automobile",
+        "Automotive Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Pune",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO017",
+      "company_name": "Bosch India",
+      "sector": "Engineering & Manufacturing",
+      "industry": "Automotive & Industrial Technology",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "Mechanical, Electronics, Embedded C, Automation, CAD",
+      "is_verified": true,
+      "website": "https://www.boschindia.com",
+      "about": "Bosch India is a premier Global MNC in the Engineering & Manufacturing sector, specializing in Automotive & Industrial Technology. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@boschindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Engineering & Manufacturing",
+        "Automotive & Industrial Technology",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO018",
+      "company_name": "Larsen & Tourbo(L&T)",
+      "sector": "Engineering",
+      "industry": "Engineering & Construction",
+      "location": "Mumbai",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Civil, Mechanical, Electrical, Project Management, CAD",
+      "is_verified": true,
+      "website": "https://www.larsentourbolt.com",
+      "about": "Larsen & Tourbo(L&T) is a premier Indian MNC in the Engineering sector, specializing in Engineering & Construction. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@larsentourbolt.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Engineering",
+        "Engineering & Construction",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO019",
+      "company_name": "Siemens India",
+      "sector": "Engineering & Manufacturing",
+      "industry": "Industrial Automation & Technology",
+      "location": "Mumbai",
+      "company_type": "Global MNC",
+      "relevant_skills": "Automation, PLC, Electrical, Mechanical, IoT, CAD",
+      "is_verified": true,
+      "website": "https://www.siemensindia.com",
+      "about": "Siemens India is a premier Global MNC in the Engineering & Manufacturing sector, specializing in Industrial Automation & Technology. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@siemensindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Engineering & Manufacturing",
+        "Industrial Automation & Technology",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO020",
+      "company_name": "ABB India",
+      "sector": "Engineering & Manufacturing",
+      "industry": "Electrification & Automation",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "Electrical, Automation, PLC, Robotics, IoT",
+      "is_verified": true,
+      "website": "https://www.abbindia.com",
+      "about": "ABB India is a premier Global MNC in the Engineering & Manufacturing sector, specializing in Electrification & Automation. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@abbindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Engineering & Manufacturing",
+        "Electrification & Automation",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO021",
+      "company_name": "Schneider Electric India",
+      "sector": "Engineering & Energy",
+      "industry": "Energy Management & Automation",
+      "location": "Gurugram",
+      "company_type": "Global MNC",
+      "relevant_skills": "Electrical, Automation, PLC, IoT, Embedded Systems",
+      "is_verified": true,
+      "website": "https://www.schneiderelectricindia.com",
+      "about": "Schneider Electric India is a premier Global MNC in the Engineering & Energy sector, specializing in Energy Management & Automation. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@schneiderelectricindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Engineering & Energy",
+        "Energy Management & Automation",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Gurugram",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO022",
+      "company_name": "Tata Steel",
+      "sector": "Manufacturing",
+      "industry": "Steel & Metals",
+      "location": "Jamshedpur",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Metallurgy, Mechanical, Electrical, Process Engineering, Data",
+      "is_verified": true,
+      "website": "https://www.tatasteel.com",
+      "about": "Tata Steel is a premier Indian MNC in the Manufacturing sector, specializing in Steel & Metals. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@tatasteel.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Manufacturing",
+        "Steel & Metals",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Jamshedpur",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO023",
+      "company_name": "JSW Steel",
+      "sector": "Manufacturing",
+      "industry": "Steel & Metals",
+      "location": "Mumbai",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Metallurgy, Mechanical, Electrical, Automation, Data Analytics",
+      "is_verified": true,
+      "website": "https://www.jswsteel.com",
+      "about": "JSW Steel is a premier Indian MNC in the Manufacturing sector, specializing in Steel & Metals. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@jswsteel.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Manufacturing",
+        "Steel & Metals",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO024",
+      "company_name": "Tata Electronics",
+      "sector": "Electronics",
+      "industry": "Electronics & Semiconductor",
+      "location": "Hosur",
+      "company_type": "Indian Company",
+      "relevant_skills": "Electronics, Embedded Systems, VLSI, Manufacturing, Quality",
+      "is_verified": true,
+      "website": "https://www.tataelectronics.com",
+      "about": "Tata Electronics is a premier Indian Company in the Electronics sector, specializing in Electronics & Semiconductor. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@tataelectronics.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Electronics",
+        "Electronics & Semiconductor",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Hosur",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO025",
+      "company_name": "Intel India",
+      "sector": "Electronics & Technology",
+      "industry": "Semiconductor",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "C/C++, Python, VLSI, Embedded Systems, Computer Architecture",
+      "is_verified": true,
+      "website": "https://www.intelindia.com",
+      "about": "Intel India is a premier Global MNC in the Electronics & Technology sector, specializing in Semiconductor. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@intelindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Electronics & Technology",
+        "Semiconductor",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO026",
+      "company_name": "Texas Instruments India",
+      "sector": "Electronics & Technology",
+      "industry": "Semiconductor",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "Analog Electronics, Digital Electronics, VLSI, C/C++, Embedded",
+      "is_verified": true,
+      "website": "https://www.texasinstrumentsindia.com",
+      "about": "Texas Instruments India is a premier Global MNC in the Electronics & Technology sector, specializing in Semiconductor. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@texasinstrumentsindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Electronics & Technology",
+        "Semiconductor",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO027",
+      "company_name": "Qualcomm India",
+      "sector": "Electronics & Technology",
+      "industry": "Semiconductor & Wireless Technology",
+      "location": "Hyderabad",
+      "company_type": "Global MNC",
+      "relevant_skills": "C/C++, Embedded Systems, VLSI, DSP, Wireless Communication",
+      "is_verified": true,
+      "website": "https://www.qualcommindia.com",
+      "about": "Qualcomm India is a premier Global MNC in the Electronics & Technology sector, specializing in Semiconductor & Wireless Technology. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@qualcommindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Electronics & Technology",
+        "Semiconductor & Wireless Technology",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Hyderabad",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO028",
+      "company_name": "Reliance Industries",
+      "sector": "Energy & Diversified",
+      "industry": "Energy, Retail & Digital Services",
+      "location": "Mumbai",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Engineering, Data Analytics, Digital Technology, Supply Chain",
+      "is_verified": true,
+      "website": "https://www.relianceindustries.com",
+      "about": "Reliance Industries is a premier Indian MNC in the Energy & Diversified sector, specializing in Energy, Retail & Digital Services. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@relianceindustries.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Energy & Diversified",
+        "Energy, Retail & Digital Services",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO029",
+      "company_name": "Tata Power",
+      "sector": "Energy",
+      "industry": "Power & Renewable Energy",
+      "location": "Mumbai",
+      "company_type": "Indian Company",
+      "relevant_skills": "Electrical Engineering, Power Systems, Renewable Energy, Data",
+      "is_verified": true,
+      "website": "https://www.tatapower.com",
+      "about": "Tata Power is a premier Indian Company in the Energy sector, specializing in Power & Renewable Energy. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@tatapower.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Energy",
+        "Power & Renewable Energy",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO030",
+      "company_name": "NTPC",
+      "sector": "Energy",
+      "industry": "Power Generation",
+      "location": "New Delhi",
+      "company_type": "Government Enterprise",
+      "relevant_skills": "Electrical, Mechanical, Civil, Power Systems, Renewable Energy",
+      "is_verified": true,
+      "website": "https://www.ntpc.com",
+      "about": "NTPC is a premier Government Enterprise in the Energy sector, specializing in Power Generation. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@ntpc.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Energy",
+        "Power Generation",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "New Delhi",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO031",
+      "company_name": "Indian Oil Corporation (IOCL)",
+      "sector": "Energy",
+      "industry": "Oil & Gas",
+      "location": "New Delhi",
+      "company_type": "Government Enterprise",
+      "relevant_skills": "Chemical, Mechanical, Electrical, Process Engineering",
+      "is_verified": true,
+      "website": "https://www.indianoilcorporationiocl.com",
+      "about": "Indian Oil Corporation (IOCL) is a premier Government Enterprise in the Energy sector, specializing in Oil & Gas. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@indianoilcorporationiocl.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Energy",
+        "Oil & Gas",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "New Delhi",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO032",
+      "company_name": "Bharat Petroleum Corporation (BPCL)",
+      "sector": "Energy",
+      "industry": "Oil & Gas",
+      "location": "Mumbai",
+      "company_type": "Government Enterprise",
+      "relevant_skills": "Chemical, Mechanical, Electrical, Process Engineering",
+      "is_verified": true,
+      "website": "https://www.bharatpetroleumcorporationbpcl.com",
+      "about": "Bharat Petroleum Corporation (BPCL) is a premier Government Enterprise in the Energy sector, specializing in Oil & Gas. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@bharatpetroleumcorporationbpcl.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Energy",
+        "Oil & Gas",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO033",
+      "company_name": "Hindustan Petroleum Corporation (HPCL)",
+      "sector": "Energy",
+      "industry": "Oil & Gas",
+      "location": "Mumbai",
+      "company_type": "Government Enterprise",
+      "relevant_skills": "Chemical, Mechanical, Electrical, Process Engineering",
+      "is_verified": true,
+      "website": "https://www.hindustanpetroleumcorporationhpcl.com",
+      "about": "Hindustan Petroleum Corporation (HPCL) is a premier Government Enterprise in the Energy sector, specializing in Oil & Gas. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@hindustanpetroleumcorporationhpcl.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Energy",
+        "Oil & Gas",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO034",
+      "company_name": "Sun Pharmaceutical Industries",
+      "sector": "Healthcare",
+      "industry": "Pharmaceuticals",
+      "location": "Mumbai",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Pharmacy, Chemistry, Biotechnology, Data Analytics, Quality",
+      "is_verified": true,
+      "website": "https://www.sunpharmaceuticalindustries.com",
+      "about": "Sun Pharmaceutical Industries is a premier Indian MNC in the Healthcare sector, specializing in Pharmaceuticals. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@sunpharmaceuticalindustries.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Healthcare",
+        "Pharmaceuticals",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO035",
+      "company_name": "Dr. Reddy's Laboratories",
+      "sector": "Healthcare",
+      "industry": "Pharmaceuticals",
+      "location": "Hyderabad",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Pharmacy, Chemistry, Biotechnology, Data Analytics, Quality",
+      "is_verified": true,
+      "website": "https://www.drreddyslaboratories.com",
+      "about": "Dr. Reddy's Laboratories is a premier Indian MNC in the Healthcare sector, specializing in Pharmaceuticals. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@drreddyslaboratories.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Healthcare",
+        "Pharmaceuticals",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Hyderabad",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO036",
+      "company_name": "Cipla",
+      "sector": "Healthcare",
+      "industry": "Pharmaceuticals",
+      "location": "Mumbai",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Pharmacy, Chemistry, Biotechnology, Quality Control, Data",
+      "is_verified": true,
+      "website": "https://www.cipla.com",
+      "about": "Cipla is a premier Indian MNC in the Healthcare sector, specializing in Pharmaceuticals. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@cipla.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Healthcare",
+        "Pharmaceuticals",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO037",
+      "company_name": "Biocon",
+      "sector": "Healthcare",
+      "industry": "Biotechnology & Pharmaceuticals",
+      "location": "Bengaluru",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Biotechnology, Biology, Chemistry, Bioinformatics, Data",
+      "is_verified": true,
+      "website": "https://www.biocon.com",
+      "about": "Biocon is a premier Indian MNC in the Healthcare sector, specializing in Biotechnology & Pharmaceuticals. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@biocon.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Healthcare",
+        "Biotechnology & Pharmaceuticals",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO038",
+      "company_name": "Apollo Hospitals",
+      "sector": "Healthcare",
+      "industry": "Hospitals & Healthcare Services",
+      "location": "Chennai",
+      "company_type": "Indian Company",
+      "relevant_skills": "Healthcare, Biotechnology, Data Analytics, Hospital Management",
+      "is_verified": true,
+      "website": "https://www.apollohospitals.com",
+      "about": "Apollo Hospitals is a premier Indian Company in the Healthcare sector, specializing in Hospitals & Healthcare Services. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@apollohospitals.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Healthcare",
+        "Hospitals & Healthcare Services",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Chennai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO039",
+      "company_name": "Fortis Healthcare",
+      "sector": "Healthcare",
+      "industry": "Hospitals & Healthcare Services",
+      "location": "Gurugram",
+      "company_type": "Indian Company",
+      "relevant_skills": "Healthcare, Biotechnology, Data Analytics, Hospital Management",
+      "is_verified": true,
+      "website": "https://www.fortishealthcare.com",
+      "about": "Fortis Healthcare is a premier Indian Company in the Healthcare sector, specializing in Hospitals & Healthcare Services. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@fortishealthcare.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Healthcare",
+        "Hospitals & Healthcare Services",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Gurugram",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO040",
+      "company_name": "Deloitte India",
+      "sector": "Professional Services",
+      "industry": "Consulting & Advisory",
+      "location": "Mumbai",
+      "company_type": "Global MNC",
+      "relevant_skills": "Data Analytics, Finance, Python, SQL, Consulting, Communication",
+      "is_verified": true,
+      "website": "https://www.deloitteindia.com",
+      "about": "Deloitte India is a premier Global MNC in the Professional Services sector, specializing in Consulting & Advisory. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@deloitteindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Professional Services",
+        "Consulting & Advisory",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO041",
+      "company_name": "EY India",
+      "sector": "Professional Services",
+      "industry": "Consulting & Advisory",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "Finance, Data Analytics, SQL, Consulting, Communication",
+      "is_verified": true,
+      "website": "https://www.eyindia.com",
+      "about": "EY India is a premier Global MNC in the Professional Services sector, specializing in Consulting & Advisory. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@eyindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Professional Services",
+        "Consulting & Advisory",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO042",
+      "company_name": "KPMG India",
+      "sector": "Professional Services",
+      "industry": "Consulting & Advisory",
+      "location": "Mumbai",
+      "company_type": "Global MNC",
+      "relevant_skills": "Finance, Data Analytics, SQL, Risk, Consulting",
+      "is_verified": true,
+      "website": "https://www.kpmgindia.com",
+      "about": "KPMG India is a premier Global MNC in the Professional Services sector, specializing in Consulting & Advisory. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@kpmgindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Professional Services",
+        "Consulting & Advisory",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO043",
+      "company_name": "PwC India",
+      "sector": "Professional Services",
+      "industry": "Consulting & Advisory",
+      "location": "Kolkata",
+      "company_type": "Global MNC",
+      "relevant_skills": "Finance, Data Analytics, SQL, Consulting, Communication",
+      "is_verified": true,
+      "website": "https://www.pwcindia.com",
+      "about": "PwC India is a premier Global MNC in the Professional Services sector, specializing in Consulting & Advisory. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@pwcindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Professional Services",
+        "Consulting & Advisory",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Kolkata",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO044",
+      "company_name": "HDFC Bank",
+      "sector": "Financial Services",
+      "industry": "Banking",
+      "location": "Mumbai",
+      "company_type": "Private Indian Bank",
+      "relevant_skills": "Finance, Banking, Excel, Data Analytics, SQL",
+      "is_verified": true,
+      "website": "https://www.hdfcbank.com",
+      "about": "HDFC Bank is a premier Private Indian Bank in the Financial Services sector, specializing in Banking. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@hdfcbank.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Financial Services",
+        "Banking",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO045",
+      "company_name": "ICICI Bank",
+      "sector": "Financial Services",
+      "industry": "Banking",
+      "location": "Mumbai",
+      "company_type": "Private Indian Bank",
+      "relevant_skills": "Finance, Banking, Data Analytics, SQL, Risk Management",
+      "is_verified": true,
+      "website": "https://www.icicibank.com",
+      "about": "ICICI Bank is a premier Private Indian Bank in the Financial Services sector, specializing in Banking. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@icicibank.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Financial Services",
+        "Banking",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO046",
+      "company_name": "Axis Bank",
+      "sector": "Financial Services",
+      "industry": "Banking",
+      "location": "Mumbai",
+      "company_type": "Private Indian Bank",
+      "relevant_skills": "Finance, Banking, Data Analytics, SQL, Risk",
+      "is_verified": true,
+      "website": "https://www.axisbank.com",
+      "about": "Axis Bank is a premier Private Indian Bank in the Financial Services sector, specializing in Banking. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@axisbank.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Financial Services",
+        "Banking",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO047",
+      "company_name": "State Bank of India",
+      "sector": "Financial Services",
+      "industry": "Banking",
+      "location": "Mumbai",
+      "company_type": "Public Sector Bank",
+      "relevant_skills": "Finance, Banking, Data Analytics, Cybersecurity, Risk",
+      "is_verified": true,
+      "website": "https://www.statebankofindia.com",
+      "about": "State Bank of India is a premier Public Sector Bank in the Financial Services sector, specializing in Banking. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@statebankofindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Financial Services",
+        "Banking",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO048",
+      "company_name": "Flipkart",
+      "sector": "Consumer Services",
+      "industry": "E-commerce",
+      "location": "Bengaluru",
+      "company_type": "Indian Company",
+      "relevant_skills": "Python, Java, SQL, Data Analytics, AI/ML, Supply Chain",
+      "is_verified": true,
+      "website": "https://www.flipkart.com",
+      "about": "Flipkart is a premier Indian Company in the Consumer Services sector, specializing in E-commerce. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@flipkart.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Consumer Services",
+        "E-commerce",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO049",
+      "company_name": "Amazon India",
+      "sector": "Consumer Services",
+      "industry": "E-commerce & Cloud",
+      "location": "Bengaluru",
+      "company_type": "Global MNC",
+      "relevant_skills": "Python, Java, SQL, Cloud, AI/ML, Data Analytics",
+      "is_verified": true,
+      "website": "https://www.amazonindia.com",
+      "about": "Amazon India is a premier Global MNC in the Consumer Services sector, specializing in E-commerce & Cloud. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@amazonindia.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Consumer Services",
+        "E-commerce & Cloud",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO050",
+      "company_name": "Reliance Retail",
+      "sector": "Consumer Services",
+      "industry": "Retail",
+      "location": "Mumbai",
+      "company_type": "Indian Company",
+      "relevant_skills": "Retail Management, Data Analytics, Supply Chain, Marketing",
+      "is_verified": true,
+      "website": "https://www.relianceretail.com",
+      "about": "Reliance Retail is a premier Indian Company in the Consumer Services sector, specializing in Retail. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@relianceretail.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Consumer Services",
+        "Retail",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO051",
+      "company_name": "Titan Company",
+      "sector": "Consumer Goods",
+      "industry": "Consumer Products & Retail",
+      "location": "Bengaluru",
+      "company_type": "Indian Company",
+      "relevant_skills": "Manufacturing, Design, Data Analytics, Supply Chain, Marketing",
+      "is_verified": true,
+      "website": "https://www.titancompany.com",
+      "about": "Titan Company is a premier Indian Company in the Consumer Goods sector, specializing in Consumer Products & Retail. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@titancompany.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Consumer Goods",
+        "Consumer Products & Retail",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO052",
+      "company_name": "Hindustan Unilever",
+      "sector": "Consumer Goods",
+      "industry": "FMCG",
+      "location": "Mumbai",
+      "company_type": "Global MNC",
+      "relevant_skills": "Marketing, Supply Chain, Data Analytics, Finance, Operations",
+      "is_verified": true,
+      "website": "https://www.hindustanunilever.com",
+      "about": "Hindustan Unilever is a premier Global MNC in the Consumer Goods sector, specializing in FMCG. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@hindustanunilever.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Consumer Goods",
+        "FMCG",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO053",
+      "company_name": "ITC",
+      "sector": "Consumer Goods",
+      "industry": "FMCG & Diversified",
+      "location": "Kolkata",
+      "company_type": "Indian Company",
+      "relevant_skills": "Marketing, Finance, Data Analytics, Supply Chain, Manufacturing",
+      "is_verified": true,
+      "website": "https://www.itc.com",
+      "about": "ITC is a premier Indian Company in the Consumer Goods sector, specializing in FMCG & Diversified. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@itc.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Consumer Goods",
+        "FMCG & Diversified",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Kolkata",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO054",
+      "company_name": "Asian Paints",
+      "sector": "Consumer Goods",
+      "industry": "Paints & Chemicals",
+      "location": "Mumbai",
+      "company_type": "Indian Company",
+      "relevant_skills": "Chemical Engineering, Manufacturing, Data Analytics, Supply Chain",
+      "is_verified": true,
+      "website": "https://www.asianpaints.com",
+      "about": "Asian Paints is a premier Indian Company in the Consumer Goods sector, specializing in Paints & Chemicals. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@asianpaints.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Consumer Goods",
+        "Paints & Chemicals",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO055",
+      "company_name": "Godrej Industries",
+      "sector": "Consumer & Manufacturing",
+      "industry": "Diversified Manufacturing",
+      "location": "Mumbai",
+      "company_type": "Indian Company",
+      "relevant_skills": "Engineering, Manufacturing, Data Analytics, Supply Chain",
+      "is_verified": true,
+      "website": "https://www.godrejindustries.com",
+      "about": "Godrej Industries is a premier Indian Company in the Consumer & Manufacturing sector, specializing in Diversified Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@godrejindustries.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Consumer & Manufacturing",
+        "Diversified Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO056",
+      "company_name": "Tata Communications",
+      "sector": "Telecommunications",
+      "industry": "Digital Infrastructure & Telecom",
+      "location": "Mumbai",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Networking, Cloud, Cybersecurity, Python, Telecom",
+      "is_verified": true,
+      "website": "https://www.tatacommunications.com",
+      "about": "Tata Communications is a premier Indian MNC in the Telecommunications sector, specializing in Digital Infrastructure & Telecom. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@tatacommunications.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Telecommunications",
+        "Digital Infrastructure & Telecom",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO057",
+      "company_name": "Bharti Airtel",
+      "sector": "Telecommunications",
+      "industry": "Telecom & Digital Services",
+      "location": "New Delhi",
+      "company_type": "Indian MNC",
+      "relevant_skills": "Networking, Cloud, Cybersecurity, Data Analytics, Telecom",
+      "is_verified": true,
+      "website": "https://www.bhartiairtel.com",
+      "about": "Bharti Airtel is a premier Indian MNC in the Telecommunications sector, specializing in Telecom & Digital Services. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@bhartiairtel.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Telecommunications",
+        "Telecom & Digital Services",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "New Delhi",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO058",
+      "company_name": "Indian Hotels Company (Taj Hotels)",
+      "sector": "Services",
+      "industry": "Hospitality & Tourism",
+      "location": "Mumbai",
+      "company_type": "Indian Company",
+      "relevant_skills": "Hospitality, Management, Marketing, Finance, Data Analytics",
+      "is_verified": true,
+      "website": "https://www.indianhotelscompanytajhotels.com",
+      "about": "Indian Hotels Company (Taj Hotels) is a premier Indian Company in the Services sector, specializing in Hospitality & Tourism. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@indianhotelscompanytajhotels.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Services",
+        "Hospitality & Tourism",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Mumbai",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO059",
+      "company_name": "Tata Advanced Systems",
+      "sector": "Aerospace & Defence",
+      "industry": "Aerospace & Defence Manufacturing",
+      "location": "Hyderabad",
+      "company_type": "Indian Company",
+      "relevant_skills": "Aerospace Engineering, Mechanical, Electronics, CAD, Manufacturing",
+      "is_verified": true,
+      "website": "https://www.tataadvancedsystems.com",
+      "about": "Tata Advanced Systems is a premier Indian Company in the Aerospace & Defence sector, specializing in Aerospace & Defence Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@tataadvancedsystems.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Aerospace & Defence",
+        "Aerospace & Defence Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Hyderabad",
+      "completion_rate": 95
+    },
+    {
+      "company_id": "CO060",
+      "company_name": "Hindustan Aeronautics Limited (HAL)",
+      "sector": "Aerospace & Defence",
+      "industry": "Aerospace & Aircraft Manufacturing",
+      "location": "Bengaluru",
+      "company_type": "Government Enterprise",
+      "relevant_skills": "Aerospace, Mechanical, Electronics, CAD, Manufacturing",
+      "is_verified": true,
+      "website": "https://www.hindustanaeronauticslimitedhal.com",
+      "about": "Hindustan Aeronautics Limited (HAL) is a premier Government Enterprise in the Aerospace & Defence sector, specializing in Aerospace & Aircraft Manufacturing. Partnered with Avsar AI to recruit top academic and vocational talent across India.",
+      "contact_email": "careers@hindustanaeronauticslimitedhal.com",
+      "contact_phone": "+91 22 6778 9000",
+      "company_size": "10,000+ Employees",
+      "areas_of_work": [
+        "Aerospace & Defence",
+        "Aerospace & Aircraft Manufacturing",
+        "Emerging Tech",
+        "Skill Upskilling"
+      ],
+      "headquarters": "Bengaluru",
+      "completion_rate": 95
+    }
+  ],
+  "internships": [
+    {
+      "id": "int-1",
+      "title": "Software & Cloud Engineering Intern",
+      "organization": "Tata Consultancy Service (TCS)",
+      "domain": "Information Technology",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Cloud",
+        "AI/ML",
+        "Data Analytics"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹20,000 / month",
+      "availableSeats": 5,
+      "description": "Hands-on PM Scheme internship at Tata Consultancy Service (TCS) focusing on IT Services & Consulting. Gain industry exposure in Python, Java, SQL with expert mentorship.",
+      "co": "Tata",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-2",
+      "title": "AI & Data Analytics Intern",
+      "organization": "Infosys",
+      "domain": "Information Technology",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Cloud",
+        "AI/ML",
+        "Data Analytics"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.1,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹21,000 / month",
+      "availableSeats": 6,
+      "description": "Hands-on PM Scheme internship at Infosys focusing on IT Services & Consulting. Gain industry exposure in Python, Java, SQL with expert mentorship.",
+      "co": "Infosys",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-3",
+      "title": "Full Stack & Cloud Developer Intern",
+      "organization": "Wipro",
+      "domain": "Information Technology",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Cloud",
+        "Cybersecurity",
+        "Data Analytics"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.2,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹22,000 / month",
+      "availableSeats": 7,
+      "description": "Hands-on PM Scheme internship at Wipro focusing on IT Services & Consulting. Gain industry exposure in Python, Java, SQL with expert mentorship.",
+      "co": "Wipro",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-4",
+      "title": "Cybersecurity & Network Operations Intern",
+      "organization": "HCLTech",
+      "domain": "Information Technology",
+      "location": "Noida",
+      "requiredSkills": [
+        "Java",
+        "Python",
+        "Cloud",
+        "Cybersecurity",
+        "SQL",
+        "AI"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.3,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹23,000 / month",
+      "availableSeats": 8,
+      "description": "Hands-on PM Scheme internship at HCLTech focusing on IT Services & Consulting. Gain industry exposure in Java, Python, Cloud with expert mentorship.",
+      "co": "HCLTech",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    },
+    {
+      "id": "int-5",
+      "title": "Software & Cloud Engineering Intern",
+      "organization": "Tech Mahindra",
+      "domain": "Information Technology",
+      "location": "Pune",
+      "requiredSkills": [
+        "Java",
+        "Python",
+        "Cloud",
+        "Networking",
+        "SQL",
+        "AI"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.4,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹24,000 / month",
+      "availableSeats": 9,
+      "description": "Hands-on PM Scheme internship at Tech Mahindra focusing on IT Services & Consulting. Gain industry exposure in Java, Python, Cloud with expert mentorship.",
+      "co": "Tech",
+      "bg": "#f0f9ff",
+      "color": "#0284c7"
+    },
+    {
+      "id": "int-6",
+      "title": "AI & Data Analytics Intern",
+      "organization": "Accenture",
+      "domain": "Information Technology",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "Cloud",
+        "Data Analytics",
+        "AI",
+        "Consulting"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.5,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹25,000 / month",
+      "availableSeats": 10,
+      "description": "Hands-on PM Scheme internship at Accenture focusing on IT Services & Consulting. Gain industry exposure in Python, Java, Cloud with expert mentorship.",
+      "co": "Accenture",
+      "bg": "#fdf2f8",
+      "color": "#db2777"
+    },
+    {
+      "id": "int-7",
+      "title": "Full Stack & Cloud Developer Intern",
+      "organization": "Cognizant",
+      "domain": "Information Technology",
+      "location": "Chennai",
+      "requiredSkills": [
+        "Java",
+        "Python",
+        "SQL",
+        "Cloud",
+        "Data Analytics",
+        "AI"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹26,000 / month",
+      "availableSeats": 11,
+      "description": "Hands-on PM Scheme internship at Cognizant focusing on IT Services & Consulting. Gain industry exposure in Java, Python, SQL with expert mentorship.",
+      "co": "Cognizant",
+      "bg": "#ecfdf5",
+      "color": "#059669"
+    },
+    {
+      "id": "int-8",
+      "title": "Cybersecurity & Network Operations Intern",
+      "organization": "Capgemini",
+      "domain": "Information Technology",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Java",
+        "Python",
+        "Cloud",
+        "SQL",
+        "Cybersecurity",
+        "Data"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹27,000 / month",
+      "availableSeats": 12,
+      "description": "Hands-on PM Scheme internship at Capgemini focusing on IT Services & Consulting. Gain industry exposure in Java, Python, Cloud with expert mentorship.",
+      "co": "Capgemini",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-9",
+      "title": "Software & Cloud Engineering Intern",
+      "organization": "IBM India",
+      "domain": "Information Technology",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "AI",
+        "Cloud",
+        "Data Science",
+        "Cybersecurity"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.8,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹28,000 / month",
+      "availableSeats": 13,
+      "description": "Hands-on PM Scheme internship at IBM India focusing on Technology & Consulting. Gain industry exposure in Python, Java, AI with expert mentorship.",
+      "co": "IBM",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-10",
+      "title": "AI & Data Analytics Intern",
+      "organization": "Oracle India",
+      "domain": "Information Technology",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Java",
+        "SQL",
+        "Cloud",
+        "Database",
+        "AI",
+        "DevOps"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.9,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹29,000 / month",
+      "availableSeats": 14,
+      "description": "Hands-on PM Scheme internship at Oracle India focusing on Enterprise Software & Cloud. Gain industry exposure in Java, SQL, Cloud with expert mentorship.",
+      "co": "Oracle",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-11",
+      "title": "CAD & Mechanical Design Intern",
+      "organization": "Tata Motors",
+      "domain": "Automobile",
+      "location": "Pune",
+      "requiredSkills": [
+        "Mechanical Design",
+        "CAD",
+        "Manufacturing",
+        "EV",
+        "Supply Chain"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹30,000 / month",
+      "availableSeats": 15,
+      "description": "Hands-on PM Scheme internship at Tata Motors focusing on Automotive Manufacturing. Gain industry exposure in Mechanical Design, CAD, Manufacturing with expert mentorship.",
+      "co": "Tata",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    },
+    {
+      "id": "int-12",
+      "title": "Vehicle Manufacturing & Quality Intern",
+      "organization": "Mahindra & Mahindra",
+      "domain": "Automobile",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Mechanical Engineering",
+        "CAD",
+        "Manufacturing",
+        "EV",
+        "Analytics"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.1,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹31,000 / month",
+      "availableSeats": 16,
+      "description": "Hands-on PM Scheme internship at Mahindra & Mahindra focusing on Automotive Manufacturing. Gain industry exposure in Mechanical Engineering, CAD, Manufacturing with expert mentorship.",
+      "co": "Mahindra",
+      "bg": "#f0f9ff",
+      "color": "#0284c7"
+    },
+    {
+      "id": "int-13",
+      "title": "Automotive Software & EV Engineering Intern",
+      "organization": "Maruti Suzuki India",
+      "domain": "Automobile",
+      "location": "New Delhi / Gurugram",
+      "requiredSkills": [
+        "Mechanical",
+        "Automobile Engineering",
+        "CAD",
+        "Manufacturing",
+        "Quality"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.2,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹32,000 / month",
+      "availableSeats": 17,
+      "description": "Hands-on PM Scheme internship at Maruti Suzuki India focusing on Automotive Manufacturing. Gain industry exposure in Mechanical, Automobile Engineering, CAD with expert mentorship.",
+      "co": "Maruti",
+      "bg": "#fdf2f8",
+      "color": "#db2777"
+    },
+    {
+      "id": "int-14",
+      "title": "CAD & Mechanical Design Intern",
+      "organization": "Hyundai Motor India",
+      "domain": "Automobile",
+      "location": "Chennai",
+      "requiredSkills": [
+        "Automobile Engineering",
+        "CAD",
+        "Manufacturing",
+        "EV",
+        "Quality"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.3,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹33,000 / month",
+      "availableSeats": 18,
+      "description": "Hands-on PM Scheme internship at Hyundai Motor India focusing on Automotive Manufacturing. Gain industry exposure in Automobile Engineering, CAD, Manufacturing with expert mentorship.",
+      "co": "Hyundai",
+      "bg": "#ecfdf5",
+      "color": "#059669"
+    },
+    {
+      "id": "int-15",
+      "title": "Vehicle Manufacturing & Quality Intern",
+      "organization": "Hero MotorCorp",
+      "domain": "Automobile",
+      "location": "New Delhi",
+      "requiredSkills": [
+        "Mechanical",
+        "Automobile Engineering",
+        "CAD",
+        "Manufacturing",
+        "Quality"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.4,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹34,000 / month",
+      "availableSeats": 19,
+      "description": "Hands-on PM Scheme internship at Hero MotorCorp focusing on Two-Wheeler Manufacturing. Gain industry exposure in Mechanical, Automobile Engineering, CAD with expert mentorship.",
+      "co": "Hero",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-16",
+      "title": "Automotive Software & EV Engineering Intern",
+      "organization": "Bajaj Auto",
+      "domain": "Automobile",
+      "location": "Pune",
+      "requiredSkills": [
+        "Mechanical",
+        "Automobile Engineering",
+        "CAD",
+        "Manufacturing",
+        "EV"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.5,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹20,000 / month",
+      "availableSeats": 5,
+      "description": "Hands-on PM Scheme internship at Bajaj Auto focusing on Automotive Manufacturing. Gain industry exposure in Mechanical, Automobile Engineering, CAD with expert mentorship.",
+      "co": "Bajaj",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-17",
+      "title": "Automation & Robotics Engineering Intern",
+      "organization": "Bosch India",
+      "domain": "Engineering & Manufacturing",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Mechanical",
+        "Electronics",
+        "Embedded C",
+        "Automation",
+        "CAD"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹21,000 / month",
+      "availableSeats": 6,
+      "description": "Hands-on PM Scheme internship at Bosch India focusing on Automotive & Industrial Technology. Gain industry exposure in Mechanical, Electronics, Embedded C with expert mentorship.",
+      "co": "Bosch",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-18",
+      "title": "Structural & CAD Engineering Trainee",
+      "organization": "Larsen & Tourbo(L&T)",
+      "domain": "Engineering",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Civil",
+        "Mechanical",
+        "Electrical",
+        "Project Management",
+        "CAD"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹22,000 / month",
+      "availableSeats": 7,
+      "description": "Hands-on PM Scheme internship at Larsen & Tourbo(L&T) focusing on Engineering & Construction. Gain industry exposure in Civil, Mechanical, Electrical with expert mentorship.",
+      "co": "Larsen",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    },
+    {
+      "id": "int-19",
+      "title": "Embedded Systems & Industrial IoT Intern",
+      "organization": "Siemens India",
+      "domain": "Engineering & Manufacturing",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Automation",
+        "PLC",
+        "Electrical",
+        "Mechanical",
+        "IoT",
+        "CAD"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.8,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹23,000 / month",
+      "availableSeats": 8,
+      "description": "Hands-on PM Scheme internship at Siemens India focusing on Industrial Automation & Technology. Gain industry exposure in Automation, PLC, Electrical with expert mentorship.",
+      "co": "Siemens",
+      "bg": "#f0f9ff",
+      "color": "#0284c7"
+    },
+    {
+      "id": "int-20",
+      "title": "Automation & Robotics Engineering Intern",
+      "organization": "ABB India",
+      "domain": "Engineering & Manufacturing",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Electrical",
+        "Automation",
+        "PLC",
+        "Robotics",
+        "IoT"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.9,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹24,000 / month",
+      "availableSeats": 9,
+      "description": "Hands-on PM Scheme internship at ABB India focusing on Electrification & Automation. Gain industry exposure in Electrical, Automation, PLC with expert mentorship.",
+      "co": "ABB",
+      "bg": "#fdf2f8",
+      "color": "#db2777"
+    },
+    {
+      "id": "int-21",
+      "title": "Engineering & Operations Intern",
+      "organization": "Schneider Electric India",
+      "domain": "Engineering & Energy",
+      "location": "Gurugram",
+      "requiredSkills": [
+        "Electrical",
+        "Automation",
+        "PLC",
+        "IoT",
+        "Embedded Systems"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹25,000 / month",
+      "availableSeats": 10,
+      "description": "Hands-on PM Scheme internship at Schneider Electric India focusing on Energy Management & Automation. Gain industry exposure in Electrical, Automation, PLC with expert mentorship.",
+      "co": "Schneider",
+      "bg": "#ecfdf5",
+      "color": "#059669"
+    },
+    {
+      "id": "int-22",
+      "title": "Engineering & Operations Intern",
+      "organization": "Tata Steel",
+      "domain": "Manufacturing",
+      "location": "Jamshedpur",
+      "requiredSkills": [
+        "Metallurgy",
+        "Mechanical",
+        "Electrical",
+        "Process Engineering",
+        "Data"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.1,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹26,000 / month",
+      "availableSeats": 11,
+      "description": "Hands-on PM Scheme internship at Tata Steel focusing on Steel & Metals. Gain industry exposure in Metallurgy, Mechanical, Electrical with expert mentorship.",
+      "co": "Tata",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-23",
+      "title": "Engineering & Operations Intern",
+      "organization": "JSW Steel",
+      "domain": "Manufacturing",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Metallurgy",
+        "Mechanical",
+        "Electrical",
+        "Automation",
+        "Data Analytics"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.2,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹27,000 / month",
+      "availableSeats": 12,
+      "description": "Hands-on PM Scheme internship at JSW Steel focusing on Steel & Metals. Gain industry exposure in Metallurgy, Mechanical, Electrical with expert mentorship.",
+      "co": "JSW",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-24",
+      "title": "Embedded Systems & Electronics Trainee",
+      "organization": "Tata Electronics",
+      "domain": "Electronics",
+      "location": "Hosur",
+      "requiredSkills": [
+        "Electronics",
+        "Embedded Systems",
+        "VLSI",
+        "Manufacturing",
+        "Quality"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.3,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹28,000 / month",
+      "availableSeats": 13,
+      "description": "Hands-on PM Scheme internship at Tata Electronics focusing on Electronics & Semiconductor. Gain industry exposure in Electronics, Embedded Systems, VLSI with expert mentorship.",
+      "co": "Tata",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-25",
+      "title": "VLSI & Computer Architecture Intern",
+      "organization": "Intel India",
+      "domain": "Electronics & Technology",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "C/C++",
+        "Python",
+        "VLSI",
+        "Embedded Systems",
+        "Computer Architecture"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.4,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹29,000 / month",
+      "availableSeats": 14,
+      "description": "Hands-on PM Scheme internship at Intel India focusing on Semiconductor. Gain industry exposure in C/C++, Python, VLSI with expert mentorship.",
+      "co": "Intel",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    },
+    {
+      "id": "int-26",
+      "title": "Wireless Communication & Hardware Intern",
+      "organization": "Texas Instruments India",
+      "domain": "Electronics & Technology",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Analog Electronics",
+        "Digital Electronics",
+        "VLSI",
+        "C/C++",
+        "Embedded"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.5,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹30,000 / month",
+      "availableSeats": 15,
+      "description": "Hands-on PM Scheme internship at Texas Instruments India focusing on Semiconductor. Gain industry exposure in Analog Electronics, Digital Electronics, VLSI with expert mentorship.",
+      "co": "Texas",
+      "bg": "#f0f9ff",
+      "color": "#0284c7"
+    },
+    {
+      "id": "int-27",
+      "title": "VLSI & Computer Architecture Intern",
+      "organization": "Qualcomm India",
+      "domain": "Electronics & Technology",
+      "location": "Hyderabad",
+      "requiredSkills": [
+        "C/C++",
+        "Embedded Systems",
+        "VLSI",
+        "DSP",
+        "Wireless Communication"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹31,000 / month",
+      "availableSeats": 16,
+      "description": "Hands-on PM Scheme internship at Qualcomm India focusing on Semiconductor & Wireless Technology. Gain industry exposure in C/C++, Embedded Systems, VLSI with expert mentorship.",
+      "co": "Qualcomm",
+      "bg": "#fdf2f8",
+      "color": "#db2777"
+    },
+    {
+      "id": "int-28",
+      "title": "Energy Systems Engineering Trainee",
+      "organization": "Reliance Industries",
+      "domain": "Energy & Diversified",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Engineering",
+        "Data Analytics",
+        "Digital Technology",
+        "Supply Chain"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹32,000 / month",
+      "availableSeats": 17,
+      "description": "Hands-on PM Scheme internship at Reliance Industries focusing on Energy, Retail & Digital Services. Gain industry exposure in Engineering, Data Analytics, Digital Technology with expert mentorship.",
+      "co": "Reliance",
+      "bg": "#ecfdf5",
+      "color": "#059669"
+    },
+    {
+      "id": "int-29",
+      "title": "Renewable Energy & Power Systems Intern",
+      "organization": "Tata Power",
+      "domain": "Energy",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Electrical Engineering",
+        "Power Systems",
+        "Renewable Energy",
+        "Data"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.8,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹33,000 / month",
+      "availableSeats": 18,
+      "description": "Hands-on PM Scheme internship at Tata Power focusing on Power & Renewable Energy. Gain industry exposure in Electrical Engineering, Power Systems, Renewable Energy with expert mentorship.",
+      "co": "Tata",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-30",
+      "title": "Process Engineering & Plant Operations Intern",
+      "organization": "NTPC",
+      "domain": "Energy",
+      "location": "New Delhi",
+      "requiredSkills": [
+        "Electrical",
+        "Mechanical",
+        "Civil",
+        "Power Systems",
+        "Renewable Energy"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.9,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹34,000 / month",
+      "availableSeats": 19,
+      "description": "Hands-on PM Scheme internship at NTPC focusing on Power Generation. Gain industry exposure in Electrical, Mechanical, Civil with expert mentorship.",
+      "co": "NTPC",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-31",
+      "title": "Renewable Energy & Power Systems Intern",
+      "organization": "Indian Oil Corporation (IOCL)",
+      "domain": "Energy",
+      "location": "New Delhi",
+      "requiredSkills": [
+        "Chemical",
+        "Mechanical",
+        "Electrical",
+        "Process Engineering"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹20,000 / month",
+      "availableSeats": 5,
+      "description": "Hands-on PM Scheme internship at Indian Oil Corporation (IOCL) focusing on Oil & Gas. Gain industry exposure in Chemical, Mechanical, Electrical with expert mentorship.",
+      "co": "Indian",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-32",
+      "title": "Process Engineering & Plant Operations Intern",
+      "organization": "Bharat Petroleum Corporation (BPCL)",
+      "domain": "Energy",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Chemical",
+        "Mechanical",
+        "Electrical",
+        "Process Engineering"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.1,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹21,000 / month",
+      "availableSeats": 6,
+      "description": "Hands-on PM Scheme internship at Bharat Petroleum Corporation (BPCL) focusing on Oil & Gas. Gain industry exposure in Chemical, Mechanical, Electrical with expert mentorship.",
+      "co": "Bharat",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    },
+    {
+      "id": "int-33",
+      "title": "Renewable Energy & Power Systems Intern",
+      "organization": "Hindustan Petroleum Corporation (HPCL)",
+      "domain": "Energy",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Chemical",
+        "Mechanical",
+        "Electrical",
+        "Process Engineering"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.2,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹22,000 / month",
+      "availableSeats": 7,
+      "description": "Hands-on PM Scheme internship at Hindustan Petroleum Corporation (HPCL) focusing on Oil & Gas. Gain industry exposure in Chemical, Mechanical, Electrical with expert mentorship.",
+      "co": "Hindustan",
+      "bg": "#f0f9ff",
+      "color": "#0284c7"
+    },
+    {
+      "id": "int-34",
+      "title": "Pharmaceutical Quality & Analytics Intern",
+      "organization": "Sun Pharmaceutical Industries",
+      "domain": "Healthcare",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Pharmacy",
+        "Chemistry",
+        "Biotechnology",
+        "Data Analytics",
+        "Quality"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.3,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹23,000 / month",
+      "availableSeats": 8,
+      "description": "Hands-on PM Scheme internship at Sun Pharmaceutical Industries focusing on Pharmaceuticals. Gain industry exposure in Pharmacy, Chemistry, Biotechnology with expert mentorship.",
+      "co": "Sun",
+      "bg": "#fdf2f8",
+      "color": "#db2777"
+    },
+    {
+      "id": "int-35",
+      "title": "Biotechnology & Bioinformatics Intern",
+      "organization": "Dr. Reddy's Laboratories",
+      "domain": "Healthcare",
+      "location": "Hyderabad",
+      "requiredSkills": [
+        "Pharmacy",
+        "Chemistry",
+        "Biotechnology",
+        "Data Analytics",
+        "Quality"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.4,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹24,000 / month",
+      "availableSeats": 9,
+      "description": "Hands-on PM Scheme internship at Dr. Reddy's Laboratories focusing on Pharmaceuticals. Gain industry exposure in Pharmacy, Chemistry, Biotechnology with expert mentorship.",
+      "co": "Dr",
+      "bg": "#ecfdf5",
+      "color": "#059669"
+    },
+    {
+      "id": "int-36",
+      "title": "Healthcare Systems & Operations Intern",
+      "organization": "Cipla",
+      "domain": "Healthcare",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Pharmacy",
+        "Chemistry",
+        "Biotechnology",
+        "Quality Control",
+        "Data"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.5,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹25,000 / month",
+      "availableSeats": 10,
+      "description": "Hands-on PM Scheme internship at Cipla focusing on Pharmaceuticals. Gain industry exposure in Pharmacy, Chemistry, Biotechnology with expert mentorship.",
+      "co": "Cipla",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-37",
+      "title": "Pharmaceutical Quality & Analytics Intern",
+      "organization": "Biocon",
+      "domain": "Healthcare",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Biotechnology",
+        "Biology",
+        "Chemistry",
+        "Bioinformatics",
+        "Data"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹26,000 / month",
+      "availableSeats": 11,
+      "description": "Hands-on PM Scheme internship at Biocon focusing on Biotechnology & Pharmaceuticals. Gain industry exposure in Biotechnology, Biology, Chemistry with expert mentorship.",
+      "co": "Biocon",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-38",
+      "title": "Biotechnology & Bioinformatics Intern",
+      "organization": "Apollo Hospitals",
+      "domain": "Healthcare",
+      "location": "Chennai",
+      "requiredSkills": [
+        "Healthcare",
+        "Biotechnology",
+        "Data Analytics",
+        "Hospital Management"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹27,000 / month",
+      "availableSeats": 12,
+      "description": "Hands-on PM Scheme internship at Apollo Hospitals focusing on Hospitals & Healthcare Services. Gain industry exposure in Healthcare, Biotechnology, Data Analytics with expert mentorship.",
+      "co": "Apollo",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-39",
+      "title": "Healthcare Systems & Operations Intern",
+      "organization": "Fortis Healthcare",
+      "domain": "Healthcare",
+      "location": "Gurugram",
+      "requiredSkills": [
+        "Healthcare",
+        "Biotechnology",
+        "Data Analytics",
+        "Hospital Management"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.8,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹28,000 / month",
+      "availableSeats": 13,
+      "description": "Hands-on PM Scheme internship at Fortis Healthcare focusing on Hospitals & Healthcare Services. Gain industry exposure in Healthcare, Biotechnology, Data Analytics with expert mentorship.",
+      "co": "Fortis",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    },
+    {
+      "id": "int-40",
+      "title": "Financial Advisory & Risk Analytics Intern",
+      "organization": "Deloitte India",
+      "domain": "Professional Services",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Data Analytics",
+        "Finance",
+        "Python",
+        "SQL",
+        "Consulting",
+        "Communication"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.9,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹29,000 / month",
+      "availableSeats": 14,
+      "description": "Hands-on PM Scheme internship at Deloitte India focusing on Consulting & Advisory. Gain industry exposure in Data Analytics, Finance, Python with expert mentorship.",
+      "co": "Deloitte",
+      "bg": "#f0f9ff",
+      "color": "#0284c7"
+    },
+    {
+      "id": "int-41",
+      "title": "Technology Consulting & Data Analyst Intern",
+      "organization": "EY India",
+      "domain": "Professional Services",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Finance",
+        "Data Analytics",
+        "SQL",
+        "Consulting",
+        "Communication"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹30,000 / month",
+      "availableSeats": 15,
+      "description": "Hands-on PM Scheme internship at EY India focusing on Consulting & Advisory. Gain industry exposure in Finance, Data Analytics, SQL with expert mentorship.",
+      "co": "EY",
+      "bg": "#fdf2f8",
+      "color": "#db2777"
+    },
+    {
+      "id": "int-42",
+      "title": "Financial Advisory & Risk Analytics Intern",
+      "organization": "KPMG India",
+      "domain": "Professional Services",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Finance",
+        "Data Analytics",
+        "SQL",
+        "Risk",
+        "Consulting"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.1,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹31,000 / month",
+      "availableSeats": 16,
+      "description": "Hands-on PM Scheme internship at KPMG India focusing on Consulting & Advisory. Gain industry exposure in Finance, Data Analytics, SQL with expert mentorship.",
+      "co": "KPMG",
+      "bg": "#ecfdf5",
+      "color": "#059669"
+    },
+    {
+      "id": "int-43",
+      "title": "Technology Consulting & Data Analyst Intern",
+      "organization": "PwC India",
+      "domain": "Professional Services",
+      "location": "Kolkata",
+      "requiredSkills": [
+        "Finance",
+        "Data Analytics",
+        "SQL",
+        "Consulting",
+        "Communication"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.2,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹32,000 / month",
+      "availableSeats": 17,
+      "description": "Hands-on PM Scheme internship at PwC India focusing on Consulting & Advisory. Gain industry exposure in Finance, Data Analytics, SQL with expert mentorship.",
+      "co": "PwC",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-44",
+      "title": "FinTech & Risk Management Trainee",
+      "organization": "HDFC Bank",
+      "domain": "Financial Services",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Finance",
+        "Banking",
+        "Excel",
+        "Data Analytics",
+        "SQL"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.3,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹33,000 / month",
+      "availableSeats": 18,
+      "description": "Hands-on PM Scheme internship at HDFC Bank focusing on Banking. Gain industry exposure in Finance, Banking, Excel with expert mentorship.",
+      "co": "HDFC",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-45",
+      "title": "Banking Operations & Data Analytics Intern",
+      "organization": "ICICI Bank",
+      "domain": "Financial Services",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Finance",
+        "Banking",
+        "Data Analytics",
+        "SQL",
+        "Risk Management"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.4,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹34,000 / month",
+      "availableSeats": 19,
+      "description": "Hands-on PM Scheme internship at ICICI Bank focusing on Banking. Gain industry exposure in Finance, Banking, Data Analytics with expert mentorship.",
+      "co": "ICICI",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-46",
+      "title": "FinTech & Risk Management Trainee",
+      "organization": "Axis Bank",
+      "domain": "Financial Services",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Finance",
+        "Banking",
+        "Data Analytics",
+        "SQL",
+        "Risk"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.5,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹20,000 / month",
+      "availableSeats": 5,
+      "description": "Hands-on PM Scheme internship at Axis Bank focusing on Banking. Gain industry exposure in Finance, Banking, Data Analytics with expert mentorship.",
+      "co": "Axis",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    },
+    {
+      "id": "int-47",
+      "title": "Banking Operations & Data Analytics Intern",
+      "organization": "State Bank of India",
+      "domain": "Financial Services",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Finance",
+        "Banking",
+        "Data Analytics",
+        "Cybersecurity",
+        "Risk"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹21,000 / month",
+      "availableSeats": 6,
+      "description": "Hands-on PM Scheme internship at State Bank of India focusing on Banking. Gain industry exposure in Finance, Banking, Data Analytics with expert mentorship.",
+      "co": "State",
+      "bg": "#f0f9ff",
+      "color": "#0284c7"
+    },
+    {
+      "id": "int-48",
+      "title": "Supply Chain & Retail Operations Intern",
+      "organization": "Flipkart",
+      "domain": "Consumer Services",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Data Analytics",
+        "AI/ML",
+        "Supply Chain"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹22,000 / month",
+      "availableSeats": 7,
+      "description": "Hands-on PM Scheme internship at Flipkart focusing on E-commerce. Gain industry exposure in Python, Java, SQL with expert mentorship.",
+      "co": "Flipkart",
+      "bg": "#fdf2f8",
+      "color": "#db2777"
+    },
+    {
+      "id": "int-49",
+      "title": "E-Commerce Analytics & Cloud Intern",
+      "organization": "Amazon India",
+      "domain": "Consumer Services",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Python",
+        "Java",
+        "SQL",
+        "Cloud",
+        "AI/ML",
+        "Data Analytics"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.8,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹23,000 / month",
+      "availableSeats": 8,
+      "description": "Hands-on PM Scheme internship at Amazon India focusing on E-commerce & Cloud. Gain industry exposure in Python, Java, SQL with expert mentorship.",
+      "co": "Amazon",
+      "bg": "#ecfdf5",
+      "color": "#059669"
+    },
+    {
+      "id": "int-50",
+      "title": "Supply Chain & Retail Operations Intern",
+      "organization": "Reliance Retail",
+      "domain": "Consumer Services",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Retail Management",
+        "Data Analytics",
+        "Supply Chain",
+        "Marketing"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.9,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹24,000 / month",
+      "availableSeats": 9,
+      "description": "Hands-on PM Scheme internship at Reliance Retail focusing on Retail. Gain industry exposure in Retail Management, Data Analytics, Supply Chain with expert mentorship.",
+      "co": "Reliance",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-51",
+      "title": "FMCG Operations & Product Analytics Intern",
+      "organization": "Titan Company",
+      "domain": "Consumer Goods",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Manufacturing",
+        "Design",
+        "Data Analytics",
+        "Supply Chain",
+        "Marketing"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹25,000 / month",
+      "availableSeats": 10,
+      "description": "Hands-on PM Scheme internship at Titan Company focusing on Consumer Products & Retail. Gain industry exposure in Manufacturing, Design, Data Analytics with expert mentorship.",
+      "co": "Titan",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-52",
+      "title": "Consumer Quality & Supply Chain Trainee",
+      "organization": "Hindustan Unilever",
+      "domain": "Consumer Goods",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Marketing",
+        "Supply Chain",
+        "Data Analytics",
+        "Finance",
+        "Operations"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.1,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹26,000 / month",
+      "availableSeats": 11,
+      "description": "Hands-on PM Scheme internship at Hindustan Unilever focusing on FMCG. Gain industry exposure in Marketing, Supply Chain, Data Analytics with expert mentorship.",
+      "co": "Hindustan",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-53",
+      "title": "FMCG Operations & Product Analytics Intern",
+      "organization": "ITC",
+      "domain": "Consumer Goods",
+      "location": "Kolkata",
+      "requiredSkills": [
+        "Marketing",
+        "Finance",
+        "Data Analytics",
+        "Supply Chain",
+        "Manufacturing"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.2,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹27,000 / month",
+      "availableSeats": 12,
+      "description": "Hands-on PM Scheme internship at ITC focusing on FMCG & Diversified. Gain industry exposure in Marketing, Finance, Data Analytics with expert mentorship.",
+      "co": "ITC",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    },
+    {
+      "id": "int-54",
+      "title": "Consumer Quality & Supply Chain Trainee",
+      "organization": "Asian Paints",
+      "domain": "Consumer Goods",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Chemical Engineering",
+        "Manufacturing",
+        "Data Analytics",
+        "Supply Chain"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.3,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹28,000 / month",
+      "availableSeats": 13,
+      "description": "Hands-on PM Scheme internship at Asian Paints focusing on Paints & Chemicals. Gain industry exposure in Chemical Engineering, Manufacturing, Data Analytics with expert mentorship.",
+      "co": "Asian",
+      "bg": "#f0f9ff",
+      "color": "#0284c7"
+    },
+    {
+      "id": "int-55",
+      "title": "Industrial Operations & Data Analyst Intern",
+      "organization": "Godrej Industries",
+      "domain": "Consumer & Manufacturing",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Engineering",
+        "Manufacturing",
+        "Data Analytics",
+        "Supply Chain"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.4,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹29,000 / month",
+      "availableSeats": 14,
+      "description": "Hands-on PM Scheme internship at Godrej Industries focusing on Diversified Manufacturing. Gain industry exposure in Engineering, Manufacturing, Data Analytics with expert mentorship.",
+      "co": "Godrej",
+      "bg": "#fdf2f8",
+      "color": "#db2777"
+    },
+    {
+      "id": "int-56",
+      "title": "Telecom Systems & Data Analytics Trainee",
+      "organization": "Tata Communications",
+      "domain": "Telecommunications",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Networking",
+        "Cloud",
+        "Cybersecurity",
+        "Python",
+        "Telecom"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.5,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹30,000 / month",
+      "availableSeats": 15,
+      "description": "Hands-on PM Scheme internship at Tata Communications focusing on Digital Infrastructure & Telecom. Gain industry exposure in Networking, Cloud, Cybersecurity with expert mentorship.",
+      "co": "Tata",
+      "bg": "#ecfdf5",
+      "color": "#059669"
+    },
+    {
+      "id": "int-57",
+      "title": "Cloud Security & Digital Networks Intern",
+      "organization": "Bharti Airtel",
+      "domain": "Telecommunications",
+      "location": "New Delhi",
+      "requiredSkills": [
+        "Networking",
+        "Cloud",
+        "Cybersecurity",
+        "Data Analytics",
+        "Telecom"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.6,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹31,000 / month",
+      "availableSeats": 16,
+      "description": "Hands-on PM Scheme internship at Bharti Airtel focusing on Telecom & Digital Services. Gain industry exposure in Networking, Cloud, Cybersecurity with expert mentorship.",
+      "co": "Bharti",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "int-58",
+      "title": "Services Management & Digital Strategy Intern",
+      "organization": "Indian Hotels Company (Taj Hotels)",
+      "domain": "Services",
+      "location": "Mumbai",
+      "requiredSkills": [
+        "Hospitality",
+        "Management",
+        "Marketing",
+        "Finance",
+        "Data Analytics"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.7,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹32,000 / month",
+      "availableSeats": 17,
+      "description": "Hands-on PM Scheme internship at Indian Hotels Company (Taj Hotels) focusing on Hospitality & Tourism. Gain industry exposure in Hospitality, Management, Marketing with expert mentorship.",
+      "co": "Indian",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "int-59",
+      "title": "Aerospace Systems & Aircraft Design Intern",
+      "organization": "Tata Advanced Systems",
+      "domain": "Aerospace & Defence",
+      "location": "Hyderabad",
+      "requiredSkills": [
+        "Aerospace Engineering",
+        "Mechanical",
+        "Electronics",
+        "CAD",
+        "Manufacturing"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.8,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹33,000 / month",
+      "availableSeats": 18,
+      "description": "Hands-on PM Scheme internship at Tata Advanced Systems focusing on Aerospace & Defence Manufacturing. Gain industry exposure in Aerospace Engineering, Mechanical, Electronics with expert mentorship.",
+      "co": "Tata",
+      "bg": "#faf5ff",
+      "color": "#9333ea"
+    },
+    {
+      "id": "int-60",
+      "title": "CAD & Avionics Manufacturing Trainee",
+      "organization": "Hindustan Aeronautics Limited (HAL)",
+      "domain": "Aerospace & Defence",
+      "location": "Bengaluru",
+      "requiredSkills": [
+        "Aerospace",
+        "Mechanical",
+        "Electronics",
+        "CAD",
+        "Manufacturing"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.9,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ]
+      },
+      "duration": "12 Months",
+      "stipend": "₹34,000 / month",
+      "availableSeats": 19,
+      "description": "Hands-on PM Scheme internship at Hindustan Aeronautics Limited (HAL) focusing on Aerospace & Aircraft Manufacturing. Gain industry exposure in Aerospace, Mechanical, Electronics with expert mentorship.",
+      "co": "Hindustan",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    }
+  ],
+  "applications": [
+    {
+      "userId": "usr-student-001",
+      "internshipId": "int-48",
+      "appliedAt": "2026-08-22T12:00:43.468Z",
+      "status": "Applied"
+    },
+    {
+      "userId": "usr-student-001",
+      "internshipId": "int-njemvwjuc",
+      "appliedAt": "2026-08-22T11:22:15.398Z",
+      "status": "Applied"
+    },
+    {
+      "userId": "usr-aarav-101",
+      "internshipId": "int-25",
+      "appliedAt": "2026-08-22T06:08:54.215Z",
+      "status": "Applied"
+    },
+    {
+      "userId": "usr-aarav-101",
+      "internshipId": "int-3",
+      "appliedAt": "2026-08-22T06:05:52.441Z",
+      "status": "Applied"
+    },
+    {
+      "userId": "usr-aarav-101",
+      "internshipId": "int-2",
+      "appliedAt": "2026-08-22T06:05:48.097Z",
+      "status": "Applied"
+    }
+  ],
+  "ai_recommendations": [],
+  "opportunities": [
+    {
+      "id": "opp-tcs-001",
+      "company_id": "CO001",
+      "title": "Cloud & AI Microservices Intern",
+      "type": "INTERNSHIP",
+      "status": "Published",
+      "domain": "Information Technology",
+      "location": "Mumbai",
+      "work_mode": "Hybrid",
+      "requiredSkills": [
+        "Python",
+        "SQL",
+        "Java",
+        "Cloud",
+        "AI/ML"
+      ],
+      "softSkills": [
+        "Communication",
+        "Problem Solving",
+        "Team Collaboration"
+      ],
+      "skillProficiency": "Intermediate",
+      "mandatorySkills": [
+        "Python",
+        "SQL"
+      ],
+      "preferredSkills": [
+        "Cloud",
+        "AI/ML"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7.5,
+        "targetGradYears": [
+          2026,
+          2027,
+          2028
+        ],
+        "degree": "B.Tech / BCA / M.Tech",
+        "eligibleDepartments": [
+          "Computer Science",
+          "Information Technology",
+          "AI & Data Science"
+        ],
+        "certifications": [
+          "AWS Certified Cloud Practitioner",
+          "Python Specialist"
+        ]
+      },
+      "duration": "6 Months",
+      "stipend": "₹28,000 / month",
+      "availableSeats": 12,
+      "description": "Work alongside senior cloud architects on enterprise microservices deployment, Python API backends, and AI/ML model integration.",
+      "responsibilities": "Design REST APIs in Python/FastAPI, build SQL database pipelines, assist in AWS cloud infrastructure setup.",
+      "learningOutcomes": "Gain hands-on experience in enterprise cloud architecture and production AI deployments.",
+      "requiredDocuments": [
+        "Resume",
+        "Academic Transcripts",
+        "College NOC"
+      ],
+      "selectionProcess": "Aptitude Test → Technical Interview → HR Round",
+      "applicationDeadline": "2026-09-30",
+      "publishedAt": "2026-08-15",
+      "applicantsCount": 4,
+      "shortlistedCount": 2,
+      "selectedCount": 1,
+      "co": "TCS",
+      "bg": "#eaf1ff",
+      "color": "#2563eb"
+    },
+    {
+      "id": "opp-tcs-002",
+      "company_id": "CO001",
+      "title": "Junior Software Engineer (Campus Placement)",
+      "type": "JOB",
+      "status": "Published",
+      "domain": "Information Technology",
+      "location": "Mumbai",
+      "work_mode": "On-site",
+      "requiredSkills": [
+        "Java",
+        "SQL",
+        "Python",
+        "Cloud",
+        "Data Analytics"
+      ],
+      "softSkills": [
+        "Analytical Thinking",
+        "Teamwork",
+        "Agile Methodology"
+      ],
+      "skillProficiency": "Advanced",
+      "mandatorySkills": [
+        "Java",
+        "SQL"
+      ],
+      "preferredSkills": [
+        "Cloud",
+        "Data Analytics"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 7,
+        "targetGradYears": [
+          2026
+        ],
+        "degree": "B.Tech / MCA",
+        "eligibleDepartments": [
+          "CS",
+          "IT",
+          "Electronics"
+        ],
+        "certifications": [
+          "Java SE Certification"
+        ]
+      },
+      "duration": "Full-Time Permanent",
+      "stipend": "N/A",
+      "salaryPackage": "₹7.5 LPA",
+      "experienceRequirement": "Fresher (2026 Batch)",
+      "availableSeats": 25,
+      "description": "Full-time entry-level placement opportunity in TCS Digital & Cloud Transformation business unit.",
+      "responsibilities": "Develop, test, and maintain backend core banking and cloud applications.",
+      "learningOutcomes": "Accelerated corporate growth path and continuous skill certifications.",
+      "requiredDocuments": [
+        "Resume",
+        "Degree Certificate"
+      ],
+      "selectionProcess": "TCS NQT Score → Technical Assessment → HR Interview",
+      "applicationDeadline": "2026-10-15",
+      "publishedAt": "2026-08-18",
+      "applicantsCount": 6,
+      "shortlistedCount": 3,
+      "selectedCount": 2,
+      "co": "TCS",
+      "bg": "#f0fdf4",
+      "color": "#16a34a"
+    },
+    {
+      "id": "opp-tatamotors-001",
+      "company_id": "CO011",
+      "title": "EV Battery Systems & CAD Training",
+      "type": "INDUSTRIAL_TRAINING",
+      "status": "Published",
+      "domain": "Automobile",
+      "location": "Pune",
+      "work_mode": "On-site",
+      "requiredSkills": [
+        "Mechanical Design",
+        "CAD",
+        "Manufacturing",
+        "EV"
+      ],
+      "softSkills": [
+        "Safety Focus",
+        "Technical Documentation"
+      ],
+      "skillProficiency": "Intermediate",
+      "mandatorySkills": [
+        "CAD",
+        "Mechanical Design"
+      ],
+      "preferredSkills": [
+        "EV",
+        "Manufacturing"
+      ],
+      "eligibilityCriteria": {
+        "minCGPA": 6.8,
+        "targetGradYears": [
+          2026,
+          2027
+        ],
+        "degree": "Diploma Mechanical / ITI / B.Tech",
+        "eligibleDepartments": [
+          "Mechanical",
+          "Automobile",
+          "Electrical"
+        ],
+        "certifications": [
+          "AutoCAD Certified"
+        ]
+      },
+      "duration": "3 Months",
+      "stipend": "₹22,000 / month",
+      "availableSeats": 15,
+      "description": "Industrial training program on EV battery pack assembly line design, thermal management, and 3D CAD modeling.",
+      "responsibilities": "Participate in CAD drafting for battery enclosures, assist in EV assembly quality testing.",
+      "learningOutcomes": "Master EV battery manufacturing protocols and 3D parametric CAD modeling.",
+      "requiredDocuments": [
+        "Resume",
+        "College Recommendation Letter"
+      ],
+      "selectionProcess": "CAD Practical Test → Technical Panel Interview",
+      "applicationDeadline": "2026-09-20",
+      "publishedAt": "2026-08-10",
+      "applicantsCount": 3,
+      "shortlistedCount": 1,
+      "selectedCount": 0,
+      "co": "TataMotors",
+      "bg": "#fff7ed",
+      "color": "#ea580c"
+    }
+  ],
+  "interviews": [
+    {
+      "interview_id": "intv-501",
+      "application_id": "app-101",
+      "userId": "usr-aarav-101",
+      "internshipId": "opp-tcs-001",
+      "company_id": "CO001",
+      "scheduledAt": "2026-08-25T11:00:00Z",
+      "mode": "Online",
+      "meetingLinkOrVenue": "https://meet.google.com/tcs-cloud-interview",
+      "notes": "Technical discussion on Python REST APIs and Cloud architecture.",
+      "status": "Scheduled"
+    }
+  ],
+  "notifications": [
+    {
+      "notification_id": "notif-901",
+      "userId": "usr-aarav-101",
+      "title": "Application Status Updated: Shortlisted",
+      "message": "Congratulations! Tata Consultancy Service (TCS) has shortlisted your application for Cloud & AI Microservices Intern.",
+      "createdAt": "2026-08-20T09:15:00Z",
+      "isRead": false,
+      "type": "application_update"
+    }
+  ]
+}
